@@ -1,0 +1,5 @@
+pygame.key.set_repeat(500, 250)
+set_repeat() -> None
+set_repeat(delay, interval) -> None
+
+verifica si una tecla sigue apretada con X delay y repite la accion en Y intervalo.
